@@ -5,13 +5,11 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-cv_pdf: CV_KOUDAKPO.pdf
 ---
 
 {% include base_path %}
 
 Full <a href= "/files/CV_Mouda.pdf"> CV here
-=====
 
 Education
 ======
