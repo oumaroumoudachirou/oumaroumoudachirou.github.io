@@ -19,7 +19,7 @@ Heading 2
 
 Heading 3
 ======
--->
+
 
 ---
 title: ""
@@ -50,4 +50,24 @@ location: "Montreal, Canada"
      <li> Econometrics, Winter (2024) </li> 
      <li> Macroeconomics Workshop, Summer (2024) </li> </ul>
    </div>
+   -->
+
+
+---
+layout: archive
+title: "CV"
+permalink: /teaching/2014-spring-teaching-1/
+author_profile: false
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+
+Lecturer, University of Montreal
+======
+* Introduction to Macroeconomics:  Summer (2019), Winter (2022), Summer (2022)
+
   
+* M.S. in Economics and Statistics, ENSAE Senegal, 2018
