@@ -62,5 +62,5 @@ My research focuses on environmental economics, public policy, and macroeconomic
 <p align="justify"> Before joining the Ph.D. program, I hold a MSc. in Economics and Statistics from <a href="https://www.ensae.sn/presentation-ensae"> ENSAE Senegal</a>. </p>
 <p> You can reach me at  <a href="mailto:%20oumaroumoudachirou@gmail.com"> oumaroumoudachirou@gmail.com</a>. </p>
   
-You can find my <a href= "/assets/pdf/CV_KOUDAKPO.pdf"> CV here </a>.
+You can find my <a href= "/files/CV_Mouda.pdf"> CV here </a>.
 
