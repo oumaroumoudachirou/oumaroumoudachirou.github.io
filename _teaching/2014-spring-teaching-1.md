@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: ""
 collection: teaching
-type: "Workshop"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "Université de Montréal, Department"
 date: 2015-01-01
