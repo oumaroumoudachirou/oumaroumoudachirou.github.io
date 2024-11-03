@@ -22,9 +22,9 @@ Heading 3
 -->
 
 ---
-layout: page
-permalink: /teaching/2014-spring-teaching-1
+title: ""
 collection: teaching
+permalink: /teaching/2014-spring-teaching-1
 date: 2014-01-01
 location: "Montreal, Canada"
 ---
