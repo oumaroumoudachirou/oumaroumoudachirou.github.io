@@ -4,8 +4,8 @@ excerpt: "<br/> <img src='/images/Labor_share.png'>"
 collection: portfolio
 ---
 
-<p align="justify"> This paper examines the long-term effects of size-dependent exemptions in cap-and-trade systems, which allow firms below a specific emissions threshold to avoid regulation. Using data from California’s Cap-and-Trade program, I provide evidence of firms clustering near the threshold confirmed a discontinuity test in emissions distribution post-regulation. This pattern suggests that firms strategically adjust emissions to avoid regulatory costs. By extending an industry dynamics framework with heterogeneous firms, I quantify the policy’s impact on aggregate productivity, finding that removing exemptions raises productivity by 0.2% as resources shift to more productive firms. Additionally, I show that the policy causes misallocation, as intermediate-productivity firms near the threshold exhibit higher average Total Factor Productivity (TFPR) than larger, more productive firms subject to emissions costs.
+<p align="justify"> This paper investigates how tax incentives for abatement investment affect the labor share and aggregate abatement investment. Micro-level data from Colombia’s manufacturing industry reveals a strong negative correlation between abatement investment and labor share, with no association to capital investment. An industry dynamics model shows that a 20% income tax deduction for pollution control reduces the labor share by 20% due to a shift toward capital-intensive firms, increasing abatement investment by 45%. Similarly, a carbon tax decreases the labor share and boosts abatement investment, while higher corporate taxes raise the labor share but reduce abatement investment. These findings highlight the importance of carefully designed tax incentives to achieve economic and environmental objectives.
 
 
- <a href= "/files/JMP_Mouda.pdf"> Download </a>
+ <!-- <a href= "/files/JMP_Mouda.pdf"> Download </a>
 
