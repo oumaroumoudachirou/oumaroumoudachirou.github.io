@@ -1,6 +1,6 @@
 ---
 title: "Size-Dependent Exemptions in Cap-and-Trade and Aggregate Productivity"
-excerpt: "Evidence of bunching in the distribution of emission <br/> <img src='/images/jmp_fusionne.png' width='1000'/>"
+excerpt: "<br/> <img src='/images/jmp_fusionne.png' width='1000'/>"
 collection: portfolio
 ---
 
