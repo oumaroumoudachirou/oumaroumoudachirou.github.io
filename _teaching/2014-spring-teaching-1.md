@@ -4,13 +4,12 @@ collection: teaching
 type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Montreal"
-date: ""
+date: 2020-2023
 location: "Quebec, Canada"
 ---
 
 
  Introduction to Economics: Fall (2020), Fall (2022), Fall (2023) 
-
  Economic Data Analysis: Winter (2021) 
 
 
