@@ -56,11 +56,11 @@ More info about configuring Academic Pages can be found in [the guide](https://a
  <!-- <br/> est pour inserer une ligne vide -->
  <!-- <br/>I am a Ph.D. candidate in economics at  [University of Montreal](https://sceco.umontreal.ca/english/home/) and  a member of [CIREQ](https://cireqmontreal.com/). -->
 
-I am a Climate Change Economist-Modeler at the [Ministry of Finance of Quebec](https://www.finances.gouv.qc.ca/), with a Ph.D in Economics from the  [University of Montreal](https://sceco.umontreal.ca/english/home/).
+I am an Economist at the [Ministry of Finance of Quebec](https://www.finances.gouv.qc.ca/), with a Ph.D in Economics from the  [University of Montreal](https://sceco.umontreal.ca/english/home/).
 
 
 <!-- <br/<p align="justify">My research interests include <strong> macroeconomics, public economics, environmental economics. </strong> I use quantitative macro-environment models to address questions related to the design of environmental regulation.   </p>  -->
-<p align="justify">My research focuses on optimizing environmental and fiscal policies through quantitative macro-environmental models, analyzing their impact on firms' dynamics, emissions, and size distribution. I explore the balance between sustainability goals and economic efficiency. 
+<p align="justify">My research focuses on environmental economics, public policy, and macroeconomics. I examine how economic policies impact firm dynamics and investigate ways to balance sustainability goals with economic efficiency.
 
 <p align="justify"> Before joining the Ph.D. program, I hold a MSc. in Economics and Statistics from <a href="https://www.ensae.sn/presentation-ensae"> ENSAE Senegal</a>. </p>
 
