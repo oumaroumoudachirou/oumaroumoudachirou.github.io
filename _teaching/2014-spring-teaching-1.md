@@ -1,23 +1,20 @@
 ---
-title: ""
+title: "Lecturer"
 collection: teaching
 type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "Université de Montréal, Department"
-date: 2015-01-01
+venue: "University of Montreal"
+date: 
 location: "Quebec, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+ Introduction to Economics: Fall (2020), Fall (2022), Fall (2023) 
 
-Heading 2
-======
+ Economic Data Analysis: Winter (2021) 
 
-Heading 3
-======
+
+
 
 <!--
 ---
