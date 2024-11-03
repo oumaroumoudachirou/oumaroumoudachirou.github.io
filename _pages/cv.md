@@ -11,28 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, Université de Montréal, Canada, 2024
+* M.S. in Economics and Statistics, ENSAE Senegal, 2018
+* B.S. in Statistics, ENEAM Benin, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* September 2024 -- Now: Economist at Quebec's Ministry of Finances 
+  <!-- <br/>* Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
+* July 2023 - October 2023: Intern, African development Bank
 
-* Fall 2015: Research Assistant
-  * Github University
+  
+* March 2021 -- June 2022: Consultant, The World Bank
+  <!-- <br/>* Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
+
+  <!-- <br/>* Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+<!-- <br/>Skills
 ======
 * Skill 1
 * Skill 2
@@ -51,7 +53,7 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>  
   
 Teaching
 ======
@@ -61,4 +63,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams  
+-->
