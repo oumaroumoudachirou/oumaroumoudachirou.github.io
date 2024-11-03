@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+cv_pdf: CV_KOUDAKPO.pdf
 ---
 
 {% include base_path %}
@@ -23,10 +24,13 @@ Work experiences
 * September 2024 - Now: Economist at Quebec's Ministry of Finances 
 
  
-* July 2023 - October 2023: Intern, African development Bank
+* April 2023 - October 2023: Intern, African development Bank
 
   
-* March 2021 - June 2022: Consultant, The World Bank
+* March 2021 - August 2022: Consultant, The World Bank
+  
+
+* Janvier 2020 - July 2020: Research Assistant, Observatoire de la Francophonie Economique, Canada
 
   
   
