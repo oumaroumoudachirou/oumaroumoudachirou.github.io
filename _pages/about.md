@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: About
+title: Moudachirou Oumarou
 author_profile: true
 redirect_from: 
   - /about/
@@ -54,7 +54,6 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 <h4>Welcome to my home page!</h4>  
 ------
  <!-- <br/> est pour inserer une ligne vide -->
-<br/>
  <!-- <br/>I am a Ph.D. candidate in economics at  [University of Montreal](https://sceco.umontreal.ca/english/home/) and  a member of [CIREQ](https://cireqmontreal.com/). -->
 
 I am a Climate Change Economist-Modeler at the [Ministry of Finance of Quebec](https://www.finances.gouv.qc.ca/), with a Ph.D in Economics from the  [University of Montreal](https://sceco.umontreal.ca/english/home/).
