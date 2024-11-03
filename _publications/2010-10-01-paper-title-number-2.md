@@ -6,7 +6,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2010-10-01
 venue: ''
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf' 
+slidesurl: '' 
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 
