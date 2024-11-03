@@ -1,4 +1,4 @@
-<!--
+
 ---
 title: "Teaching experience 1"
 collection: teaching
@@ -9,7 +9,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+
 
 Heading 1
 ======
@@ -20,7 +20,7 @@ Heading 2
 Heading 3
 ======
 
-
+<!--
 ---
 title: ""
 collection: teaching
@@ -50,7 +50,7 @@ location: "Montreal, Canada"
      <li> Econometrics, Winter (2024) </li> 
      <li> Macroeconomics Workshop, Summer (2024) </li> </ul>
    </div>
-   -->
+
 
 
 ---
@@ -58,8 +58,6 @@ layout: archive
 title: "CV"
 permalink: /teaching/2014-spring-teaching-1/
 author_profile: false
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -71,3 +69,5 @@ Lecturer, University of Montreal
 
   
 * M.S. in Economics and Statistics, ENSAE Senegal, 2018
+
+ -->
