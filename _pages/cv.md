@@ -20,7 +20,7 @@ Work experience
 * September 2024 -- Now: Economist at Quebec's Ministry of Finances 
   <!-- <br/>* Github University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: The Users -->
 * July 2023 - October 2023: Intern, African development Bank
 
   
