@@ -15,11 +15,11 @@ Education
 * M.S. in Economics and Statistics, ENSAE Senegal, 2018
 * B.S. in Statistics, ENEAM Benin, 2015
 
-Work experience
+Work experiences
 ======
 * September 2024 - Now: Economist at Quebec's Ministry of Finances 
-  * Computable General Equilibrium models for fiscal, environmental and climate change impact measurement,  
-  * Duties includes: Updates and improvements to template
+
+ 
 * July 2023 - October 2023: Intern, African development Bank
 
   
