@@ -51,20 +51,3 @@ location: "Montreal, Canada"
      <li> Macroeconomics Workshop, Summer (2024) </li> </ul>
    </div>
   
-
-<div class="col-md-12">
-<br/> <br/> <br/>
-<body>
-  <footer class="pt-5 my-5 text-muted border-top">
-  <div class="row">
-    <div class="col-md-6 text-end social-media-icons">
-      
-        <a href="https://github.com/oumaroumoudachirou" class="ms-3 fs-5"><i class="fab fa-github"></i></a>
-
-            
-        <a href="https://www.linkedin.com/in/moudachirou-oumarou-89a384108/" class="ms-3 fs-5"><i class="fab fa-linkedin"></i></a>
-      
-    </div>
-  </div>
-</footer>
-</body>
