@@ -9,8 +9,7 @@ location: "City, Country"
 ---
 
 Lecturer
-=====
-
+======
 * Introduction to Economics, University of Montreal: Fall (2020), Fall (2022), Fall (2023)
 * Economic Data Analysis: Winter (2021)
   
