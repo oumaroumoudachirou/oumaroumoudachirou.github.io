@@ -13,7 +13,6 @@ Lecturer
 * Introduction to Economics, University of Montreal: Fall (2020), Fall (2022), Fall (2023)
 * Economic Data Analysis: Winter (2021)
 
-
 Teaching Assistant
 ======
 * Introduction to Macroeconomics:  Summer (2019), Winter (2022), Summer (2022)
