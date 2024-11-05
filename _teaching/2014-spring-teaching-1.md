@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Lecturer"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,13 +8,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Introduction to Economics, University of Montreal: Fall (2020), Fall (2022), Fall (2023)
+* Economic Data Analysis: Winter (2021)
+  
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
