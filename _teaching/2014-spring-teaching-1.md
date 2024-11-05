@@ -23,8 +23,7 @@ Teaching Assistant
 * Econometrics, Winter (2024) 
 * Macroeconomics Workshop, Summer (2024) 
 
-Aren't headings cool?
-------
+
 
   
 
