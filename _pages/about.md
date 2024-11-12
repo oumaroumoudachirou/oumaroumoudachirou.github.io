@@ -58,7 +58,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 I am an Economist at the [Ministry of Finance of Quebec](https://www.finances.gouv.qc.ca/), with a Ph.D in Economics from the  [University of Montreal](https://sceco.umontreal.ca/english/home/).
 <!-- <br/<p align="justify">My research interests include <strong> macroeconomics, public economics, environmental economics. </strong> I use quantitative macro-environment models to address questions related to the design of environmental regulation.   </p>  -->
-My research focuses on environmental economics, public policy, and macroeconomics. I examine how economic policies impact firm dynamics and investigate ways to balance sustainability goals with economic efficiency.
+My research focuses on environmental economics, economic policy, and macroeconomics. I examine the impact of economic policies on firm dynamics and explore how environmental policies can be designed to balance sustainability goals with economic efficiency. 
 <p align="justify"> Before joining the Ph.D. program, I hold a MSc. in Economics and Statistics from <a href="https://www.ensae.sn/presentation-ensae"> ENSAE Senegal</a>. </p>
 <p> You can reach me at  <a href="mailto:%20oumaroumoudachirou@gmail.com"> oumaroumoudachirou@gmail.com</a>. </p>
   
